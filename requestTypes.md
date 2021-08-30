@@ -1,4 +1,4 @@
-# POST
+### POST
 
 ```
 var xhr = new XMLHttpRequest();
