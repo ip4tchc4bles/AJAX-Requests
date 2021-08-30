@@ -1,5 +1,4 @@
-### POST
-
+**POST**
 ```
 var xhr = new XMLHttpRequest();
 var uri = "www.domain.tld";
