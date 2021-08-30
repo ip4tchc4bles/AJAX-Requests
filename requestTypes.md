@@ -1,3 +1,5 @@
+### XHR
+
 **POST**
 ```
 var xhr = new XMLHttpRequest();
