@@ -20,3 +20,13 @@ xhr.send(JSON.stringify({
             }))
               
 ```
+
+**GET**
+
+```
+var xhr = new XMLHttpRequest();
+var uri = "www.domain.tld";
+xhr.open("GET", uri);
+xhr.setRequestHeader("Authorization", "Bearer SeCret");
+xhr.send()
+```
